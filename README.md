@@ -1,4 +1,4 @@
-# Lil Embedded
+# Lil Embedded Projects
 
 These little embedded system projects were developed on practical work experience.
 
