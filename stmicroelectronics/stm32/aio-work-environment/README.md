@@ -1,4 +1,4 @@
-# STM32 All-In-One Work Environment
+# All-In-One Work Environment
 
 This little embedded system project shows how to build the all-in-one work environment (generate, edit, build, load and debug) to work with STM32 MCU-MPU.
 
