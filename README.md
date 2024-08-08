@@ -8,6 +8,12 @@ These little embedded system projects were developed on practical work experienc
 
 -   [I2C Scanner](./arduino/uno/i2c-scanner/)
 
+## [Espressif](./espressif/)
+
+### [ESP32](./espressif/esp32/)
+
+-   [BLE Beacon Scanner](./espressif/esp32/ble-beacon-scanner/)
+
 ## [Firefly](./firefly/)
 
 ### [ROC-RK3328-CC](./firefly/roc-rk3328-cc/)
