@@ -8,6 +8,12 @@ These little embedded system projects were developed on practical work experienc
 
 -   [I2C Scanner](./arduino/uno/i2c-scanner/)
 
+## [BeagleBone](./beagle-bone/)
+
+### [Green Wireless](./beagle-bone/green-wireless/)
+
+-   [Enhanced Loadable Kernel Module Tutorial](./beagle-bone/green-wireless/enhanced-lkm-tutorial/)
+
 ## [Espressif](./espressif/)
 
 ### [ESP32](./espressif/esp32/)
