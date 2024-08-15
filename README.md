@@ -7,6 +7,7 @@ These little embedded system projects were developed on practical work experienc
 ### [UNO](./arduino/uno/)
 
 -   [I2C Scanner](./arduino/uno/i2c-scanner/)
+-   [Stepper Motor Controller](./arduino/uno/stepper-motor-controller/)
 
 ## [Espressif](./espressif/)
 
