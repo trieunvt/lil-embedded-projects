@@ -20,4 +20,5 @@ These little embedded system projects were developed on practical work experienc
 ### [STM32](./stmicroelectronics/stm32/)
 
 -   [All-In-One Work Environment](./stmicroelectronics/stm32/aio-work-environment/)
+-   [Custom Bootloader](https://github.com/trieunvt/stm32-custom-bootloader)
 -   [Stepper Motor Controller](./stmicroelectronics/stm32/stepper-motor-controller/)
